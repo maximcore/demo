@@ -1,0 +1,130 @@
+{
+  "dish": [
+    {
+      "dish": "Apple",
+      "prot": "0.4",
+      "fat": "0.4",
+      "carb": "9.8",
+      "cal": "47"
+    },
+    {
+      "dish": "Bread",
+      "prot": "8.8",
+      "fat": "3.3",
+      "carb": "46.7",
+      "cal": "266"
+    },
+    {
+      "dish": "Cereal",
+      "prot": "6",
+      "fat": "1.1",
+      "carb": "87",
+      "cal": "378"
+    },
+    {
+      "dish": "Eggs",
+      "prot": "12.7",
+      "fat": "11.5",
+      "carb": "0.7",
+      "cal": "157"
+    },
+    {
+      "dish": "Fish",
+      "prot": "18",
+      "fat": "2.8",
+      "carb": "0",
+      "cal": "95"
+    },
+    {
+      "dish": "Greyfurt",
+      "prot": "0.7",
+      "fat": "0.2",
+      "carb": "6.5",
+      "cal": "29"
+    },
+    {
+      "dish": "Hot dog",
+      "prot": "8.8",
+      "fat": "18.3",
+      "carb": "25",
+      "cal": "296.7"
+    },
+    {
+      "dish": "Ice cream",
+      "prot": "3.90",
+      "fat": "13.79",
+      "carb": "22.14",
+      "cal": "230"
+    },
+    {
+      "dish": "Kiwi",
+      "prot": "1",
+      "fat": "0.60",
+      "carb": "10.3",
+      "cal": "48"
+    },
+    {
+      "dish": "Lemon",
+      "prot": "0.9",
+      "fat": "0.1",
+      "carb": "3",
+      "cal": "34"
+    },
+    {
+      "dish": "Lobster",
+      "prot": "18.19",
+      "fat": "0.89",
+      "carb": "0.88",
+      "cal": "87.40"
+    },
+    {
+      "dish": "Milk",
+      "prot": "2.8",
+      "fat": "2.5",
+      "carb": "4.7",
+      "cal": "52"
+    },
+    {
+      "dish": "Pizza",
+      "prot": "9.7",
+      "fat": "25.7",
+      "carb": "12.9",
+      "cal": "321.6"
+    },
+    {
+      "dish": "Potato",
+      "prot": "2",
+      "fat": "0.4",
+      "carb": "16.3",
+      "cal": "77"
+    },
+    {
+      "dish": "Spaghetti",
+      "prot": "5.52",
+      "fat": "0.95",
+      "carb": "34.60",
+      "cal": "171"
+    },
+    {
+      "dish": "Toast",
+      "prot": "13",
+      "fat": "4.3",
+      "carb": "56",
+      "cal": "313"
+    },
+    {
+      "dish": "Waffles",
+      "prot": "5.69",
+      "fat": "30.07",
+      "carb": "58.86",
+      "cal": "519.63"
+    },
+    {
+      "dish": "Yogurt",
+      "prot": "4.1",
+      "fat": "1.5",
+      "carb": "5.9",
+      "cal": "57"
+    }
+  ]
+}
